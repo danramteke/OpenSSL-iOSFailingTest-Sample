@@ -1,4 +1,4 @@
-# Sample Project 
+# Sample OpenSSL Project to show build failure
 
 A sample project to demonstrate a build failure when building for test. Runs fine for a normal build and run. Issue: https://github.com/krzyzanowskim/OpenSSL/issues/54
 
