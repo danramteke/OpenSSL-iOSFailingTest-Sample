@@ -1,0 +1,6 @@
+framework module Pods_OpenSSLSampleUITests {
+  umbrella header "Pods-OpenSSLSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
