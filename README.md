@@ -1,5 +1,8 @@
+# Sample Project 
 
-# Steps to Reproduce build failure.
+A sample project to demonstrate a build failure when building for test. Runs fine for a normal build and run. Issue: https://github.com/krzyzanowskim/OpenSSL/issues/54
+
+## Steps to Reproduce build failure.
 
 1. Create new Single View iOS App
 2. `pod init`
